@@ -11,6 +11,11 @@
 
 My Logs :
 
+### Day 0: July 26, 2021
+
+**Today's Progress**: 
+
+
 
 
 
