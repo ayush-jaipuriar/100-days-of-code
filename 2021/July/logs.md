@@ -8,7 +8,7 @@ My Logs :
 
 **Link to work:**  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
-### Day 0: Tuesday July 27, 2021
+### Day 1: Tuesday July 27, 2021
 
 **Today's Progress**: Studied about declarative vs imperative programming, learnt some basic concepts on Java functional programming and did some practice on lambda expressions.
 
