@@ -29,6 +29,7 @@
 2. ["The Obstacle is the Way" by Ryan Holiday](http://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way?ac=1&from_search=true)
 3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
 4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
+5. ["Winning" by Tim S Grover](https://www.goodreads.com/book/show/56769353-winning?ac=1&from_search=true&qid=0bdUlAdMtJ&rank=2)
 
 ### Coding
 1. "Professional Node.js" by Teixeira
